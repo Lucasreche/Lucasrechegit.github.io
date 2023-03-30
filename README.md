@@ -1,2 +1,2 @@
 # lucasrechegit.github.io
-Curriculo do Jornada Dev
+Exercicios e codigos desenvolvidos em aula cursos extras.
